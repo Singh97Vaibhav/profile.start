@@ -1,0 +1,27 @@
+.site-header{
+    background-color:#1bbc9b;
+    color: #ecfdf9; 
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic{
+    border-radius: 50%;
+    padding-top: 1px;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: black 2px 5px 5px;
+}
+.site-header-content{
+    margin: 5px;
+}
+.course-link{
+    color: #ecfdf9; 
+}
+body{
+    margin: 0%;
+}
